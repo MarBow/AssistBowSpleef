@@ -1,0 +1,10 @@
+name: AssistBowSpleef
+main: to.px.marbow.AssistBowSpleef.AssistBowSpleef
+version: 0.0.1
+commands:
+  abs:
+    description: 'BowSpleefを支援するプラグインです'
+    usage: '/abs ヘルプを表示します'
+    permission: AssistBowSpleef
+    permission-message: '<permission>を実行する権限を持っていません'
+  
